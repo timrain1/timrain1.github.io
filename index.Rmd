@@ -5,7 +5,8 @@ title: "Welcome to my homepage!"
 
 
 
-##My name is Junting Ren, a master student in the biostatistics department at Columbia University.
+##My name is Junting Ren, a master student in the biostatistics department at [Columbia University](https://www.mailman.columbia.edu/).
+##I just received my Bachelor of Medicine at [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm).
 
 <img src="images/2.jpg" style="width:50%">
 
