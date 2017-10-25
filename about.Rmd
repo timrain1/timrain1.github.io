@@ -1,0 +1,58 @@
+---
+title: "Resume"
+---
+
+#**JUNTING REN**
+**With 2-years of experience in medical data-driven research, I successfully designed and conducted research projects by using professional skills in collecting medical data from hospital record or open-source databases, implementing various statistical models to analyze medical data, and drafting peer-reviewed articles. Majored in both medicine and biostatistics, I am fast-learning and corporative.**
+  
+917-388-5692 | [jr3755@cumc.columbia.edu](jr3755@cumc.columbia.edu) | 722 West 168th St. NY, NY 10032
+
+##EDUCATION
+####**Columbia University, New York, USA**
+*Master of Science, School of Public Health, Biostatistics*, *07/2019*
+
+* Relevant Coursework: Data Science (R programming), Data coordination (Access, SQL), Biostatistics Methods
+
+####**Sun Yat-sen University, Guangzhou, China**
+*Bachelor of Medicine, School of Public Health, Preventative Medicine*, *07/2017*
+
+* Relevant Coursework: Medical statistics, Epidemiology, Environmental Health
+* One of the top 5 medical Universities in China
+* First-class Scholarship (Highest scholarship in University)	
+         
+##RESEARCH EXPERIENCE
+####Sun Yat-sen University Cancer Center, Research Team Captain, Guangzhou, China, *06/2015-09/2017*
+
+* Managed and analyzed data using conditional logistic regression models with R
+* Established composite wealth score through multiple correspondence analysis with R
+
+####Sun Yat-sen University, Research Team Member, Guangzhou, China, *07/2013-09/2017*
+* Conducted basic genomic data analysis using logistic regression and goodness-of-fit chi-squared test (to determine association of SNP with cancer risk) with SAS and SPSS
+* Drafted and polished article in English for submission to a peer-reviewed scientific journal	
+
+####Sun Yat-sen University, Research Team Captain, Guangzhou, China, *03/2015-06/2015*
+
+* Analyzed data through conducting 1-way ANOVA and paired T-test using SAS
+*	Designed an animal experiment (55 mice divided into 4 groups: control, alcohol, wine, and grape juice)
+*	Published an article in a Chinese peer-reviewed scientific journal
+
+##INTERNSHIP EXPERIENCE
+####Guangdong Provincial Center for Disease Control & Prevention (CDC) Intern, Guangzhou, China, *09/2016-present* 
+
+* Analyzed data to predict air pollution in unmonitored areas through running a land use regression model with R	
+
+##PUBLICATIONS
+
+* *Ren JT*, Li MY, Wang XW, Xue WQ, Ren ZF, Jia WH. Potential Factors of the Clinical Stage of Nasopharyngeal Carcinoma at Diagnosis: A Case Control Study. Chinese Journal of Cancer (Accepted for publication, Impact Factor=4.11).
+
+* *Ren JT*, Zhang J, Zhang ZY, Cai WL, Cai W, Liu ZY, Wu YP. Effects of Wine and Grape Juice on Alcoholic Liver Injury in Mice. Journal of Tropical Medicine. 2015, 12:1610-1613+1582 (in Chinese).
+
+* Liao YH, *Ren JT*, Zhang W, Zhang ZZ, Lin Y, Su FX, Jia WH, Tang LY, Ren ZF. Polymorphisms in homologous recombination repair genes and the risk and survival of breast cancer. The Journal of Gene Medicine. (Accepted for publication)
+
+* Zhu RM, Lin W, Zhang W, *Ren JT*, Su Y, He JR, Lin Y, Su FX, Xie XM, Tang LY, Ren ZF. Associations of Diabetes, Polymorphisms in FTO, IL-6, and HSPD1, with Breast Cancer Risk and Survival. PLoS ONE. 2017;12(6).
+
+##SKILLS
+
+* Software: R, SQL, SAS, Epidata, Adobe Premiere, Photoshop, Lightroom
+* Language: Mandarin (native), Cantonese (native), and English (fluent verbal and written)
+* Communication: Strong presentation, public speaking, and scientific writing 

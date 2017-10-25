@@ -1,0 +1,12 @@
+---
+title: "Welcome to my homepage!"
+---
+<img src="images/1.jpg" style="width:75%">
+
+
+
+##My name is Junting Ren, a master student in the biostatistics department at Columbia University.
+
+<img src="images/2.jpg" style="width:50%">
+
+###**With 2-years of experience in medical data-driven research, I successfully designed and conducted research projects by using professional skills in collecting medical data from hospital record or open-source databases, implementing various statistical models to analyze medical data, and drafting peer-reviewed articles. Majored in both medicine and biostatistics, I am fast-learning and corporative.**

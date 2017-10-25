@@ -1,0 +1,17 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Junting Ren 任俊庭"
+  right:
+    - text: "Resume"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<jr3755@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/timrain1/
+    - icon: fa-linkedin-square
+      href: https://www.linkedin.com/in/junting-ren-76410414a/
+    - icon: fa-graduation-cap
+      href: https://www.mailman.columbia.edu/
+output:
+  html_document
